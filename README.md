@@ -37,7 +37,7 @@ This project uses your webcam and detects hand signs for Rock, Paper, or Scissor
 
 
 
-
+---
 
 <h3>📺 Demo</h3>
 Watch the YouTube video here: 🎥 Rock Paper Scissors Game Demo
