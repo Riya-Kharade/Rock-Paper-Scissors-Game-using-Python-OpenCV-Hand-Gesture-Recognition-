@@ -36,11 +36,14 @@ This project uses your webcam and detects hand signs for Rock, Paper, or Scissor
 4. **Result**: The game compares gestures and updates the score.
 
 ---
+
+---
 ## 📺 Demo
 Watch the YouTube video here: 🎥 Rock Paper Scissors Game Demo
+
 ---
 
-## 📩 Contact</h3>
+## 📩 Contact
 
 If you have suggestions or questions, feel free to reach out:
 
