@@ -36,12 +36,21 @@ This project uses your webcam and detects hand signs for Rock, Paper, or Scissor
 4. **Result**: The game compares gestures and updates the score.
 
 ---
-## 📝 How It Works
-1. **Hand Detection**: Uses `cvzone.HandTrackingModule` to detect your hand.
-2. **Game Start**: A countdown timer appears, giving you 3 seconds to show your hand gesture.
-3. **Computer Move**: The computer randomly selects Rock, Paper, or Scissors.
-4. **Result**: The game compares gestures and updates the score.
+## 📝 How to Run
+### ✅ Prerequisites
+Make sure you have Python installed with the following packages:
+pip install opencv-python
+pip install cvzone
 
+### 🚀 Steps to Run
+# Clone the repository
+git clone https://github.com/riya-kharade/rock-paper-scissors-hand-gesture.git
+
+# Move into project directory
+cd rock-paper-scissors-hand-gesture
+
+# Run the game
+python rock_game.py 
 ---
 ## 📺 Demo
 Watch the YouTube video here: 🎥 Rock Paper Scissors Game Demo
