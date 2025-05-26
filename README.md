@@ -35,15 +35,12 @@ This project uses your webcam and detects hand signs for Rock, Paper, or Scissor
 3. **Computer Move**: The computer randomly selects Rock, Paper, or Scissors.
 4. **Result**: The game compares gestures and updates the score.
 
-
-
 ---
-
-<h3>📺 Demo</h3>
+## 📺 Demo
 Watch the YouTube video here: 🎥 Rock Paper Scissors Game Demo
 ---
 
-<h3> 📩 Contact</h3>
+## 📩 Contact</h3>
 
 If you have suggestions or questions, feel free to reach out:
 
