@@ -36,18 +36,22 @@ This project uses your webcam and detects hand signs for Rock, Paper, or Scissor
 4. **Result**: The game compares gestures and updates the score.
 
 ---
+---
+## 📝 How It Works
+1. **Hand Detection**: Uses `cvzone.HandTrackingModule` to detect your hand.
+2. **Game Start**: A countdown timer appears, giving you 3 seconds to show your hand gesture.
+3. **Computer Move**: The computer randomly selects Rock, Paper, or Scissors.
+4. **Result**: The game compares gestures and updates the score.
 
 ---
 ## 📺 Demo
 Watch the YouTube video here: 🎥 Rock Paper Scissors Game Demo
 
 ---
-
 ## 📩 Contact
 
 If you have suggestions or questions, feel free to reach out:
 
 - 📧 Email: riyasunilkharade.vit@gmail.com  
 - 🔗 GitHub: [riya-kharade](https://github.com/riya-kharade)
-
 ---
